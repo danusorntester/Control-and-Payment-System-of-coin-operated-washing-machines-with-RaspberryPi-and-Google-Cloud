@@ -1,0 +1,48 @@
+body {
+    background-color: #333333;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#frm .txt {
+    color:#000000;
+    opacity:1;
+  }
+
+#frm{
+    border: solid 2px;
+    border-color: #f795ee;
+    width: 17%; 
+    border-radius: 20px;
+    margin: 100px auto;
+    background-color: #ffc0cb;
+   /* background-image: url("bg21.png");*/
+    padding: 40px;
+    /*opacity: 0.6;*/
+    text-align: center;  
+}
+
+.button{
+    background-color: #df556f;
+    border: solid 1px;
+    font-size: 16px;
+    border-radius: 12px;
+    width: 200px;
+}
+
+.textinput{
+    border: none;
+    background: #eeeeee70;
+    border-radius: 12px;
+    width: 200; 
+    height: 25;
+    text-align: center;
+   /* background: URL("usicon1.png");
+    background-repeat: no-repeat; */  
+}
+
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }

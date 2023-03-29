@@ -1,0 +1,29 @@
+body {
+    background-color: #f5deb3;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#frm{
+    border-style: hidden;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+th {
+    background-color: #dcc7a1;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid rgb(37, 37, 37);
+}
+
+#home {
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    width: 100px;
+    height: 100px;
+}
+

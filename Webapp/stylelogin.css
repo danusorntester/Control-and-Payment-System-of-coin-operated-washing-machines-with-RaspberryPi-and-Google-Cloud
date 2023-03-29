@@ -1,0 +1,28 @@
+body {
+    background-color: #f5deb3;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#frm{
+    background-color: lightgrey;
+    border: solid 1px;
+    width: 250px;
+    height: 250px; 
+    border-radius: 20%;
+    margin-top: 20px;
+    margin-left: 500px;
+    background-color: #333333;
+    padding: 1px;
+    text-align: center;  
+}
+
+#home {
+    position: absolute;
+    right: 80;
+    bottom: 50;
+    width: 100px;
+    height: 100px;
+    background: url(logouticon.jpg) 0 0;
+}
